@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\application\\dtos\\bookdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|solutionrelative:application\\dtos\\bookdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|solutionrelative:api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|solutionrelative:application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58223928-E826-4521-AEB6-44E7BEA9A98D}|API\\API.csproj|solutionrelative:api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F44E0F-1304-4848-B7FC-7329133BD4BF}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F44E0F-1304-4848-B7FC-7329133BD4BF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|solutionrelative:application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BDCB1E-255F-465A-AE98-618B013F304E}|Application\\Application.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F44E0F-1304-4848-B7FC-7329133BD4BF}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\source\\repos\\librarymanagementsystem\\infrastructure\\migrations\\20260119073635_setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F44E0F-1304-4848-B7FC-7329133BD4BF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260119073635_setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:55:38.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDtos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\DTOs\\BookDtos.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\BookDtos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\DTOs\\BookDtos.cs",
+              "RelativeToolTip": "Application\\DTOs\\BookDtos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:51:25.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:40:09.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:39:51.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260119073635_setup.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Infrastructure\\Migrations\\20260119073635_setup.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260119073635_setup.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Infrastructure\\Migrations\\20260119073635_setup.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260119073635_setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:36:35.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv0EAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:31:31.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:24:21.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Services\\BookService.cs",
+              "RelativeToolTip": "Application\\Services\\BookService.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAQwB0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:24:15.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwPQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:23:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:20:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:19:10.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibraryManagementSystem\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:11:11.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
