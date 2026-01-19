@@ -27,7 +27,8 @@ ASP.NET Core 8.0 RESTful API with Clean Architecture, SOLID principles, JWT auth
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database=LibraryManagementDb;Trusted_Connection=true;TrustServerCertificate=true;"
+     "DefaultConnection": "Data Source=(LocalDb)\\MSSQLLocalDB;Initial Catalog=LibraryManagementDb;Integrated Security=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
+
   }
 }
 ```
@@ -42,6 +43,9 @@ For SQL Server Auth:
 dotnet restore
 dotnet run --project src/API/LibraryManagementSystem.API.csproj
 ```
+# In the project directory with the DbContext
+dotnet ef migrations add setup
+dotnet ef database update
 
 3. **Open Swagger**: https://localhost:7001/swagger
 
